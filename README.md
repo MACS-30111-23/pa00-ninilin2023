@@ -1,6 +1,7 @@
 
 # About Me
 
+<img width="583" alt="Screen Shot 2024-10-01 at 5 28 21 PM" src="https://github.com/user-attachments/assets/3c05df07-77ee-414c-9f2c-d1fdbb2d3a30">
 
 
 My name is Nini Lin,and I am a second year master student at Harris. My research interests are
@@ -8,8 +9,10 @@ My name is Nini Lin,and I am a second year master student at Harris. My research
 2. Economics of technology
 3. Behavioral economics
 
-I am currently conducting a field experiment in raising EdTech Program Take-up in rural areas of China,
+_I am currently conducting a field experiment in raising EdTech Program Take-up in rural areas of China._
 
+## Summary of Github
+Since this is my first time using GitHub, I would like to share some thoughts as a first-time learner. I enjoy its version control system, where I can create a new branch to make changes and delete the original branch after the requests are reviewed. I often encounter version control issues on other platforms, such as R, but GitHub has made this process easier for me. I also appreciate the tutorial information that GitHub provides, as the tutorials are quite hands-on.
 
 
 # PA 00
