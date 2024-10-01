@@ -4,7 +4,7 @@
 <img width="583" alt="Screen Shot 2024-10-01 at 5 28 21 PM" src="https://github.com/user-attachments/assets/3c05df07-77ee-414c-9f2c-d1fdbb2d3a30">
 
 
-My name is Nini Lin,and I am a second year master student at Harris. My research interests are
+My name is Nini Lin,and I am a second year master student at [Harris](https://harris.uchicago.edu/). My research interests are
 1. Economics of education
 2. Economics of technology
 3. Behavioral economics
