@@ -1,11 +1,14 @@
 
 # About Me
+
+
+
 My name is Nini Lin,and I am a second year master student at Harris. My research interests are
 1. Economics of education
 2. Economics of technology
 3. Behavioral economics
 
-I am currently conducting a field experiment in raising EdTech Program Take-up in rural areas of China, and here are some 
+I am currently conducting a field experiment in raising EdTech Program Take-up in rural areas of China,
 
 
 
